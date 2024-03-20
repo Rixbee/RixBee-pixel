@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "test-rbd-callback",
-  "description": "",
+  "description": "Install test-rbd-callback easily to your site without the need to write a line of code.",
   "containerContexts": [
     "WEB"
   ]
